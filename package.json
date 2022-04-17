@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "",
   "bugs": {
-    "url": ""
+    "url": {}
   },
   "dependencies": {
     "gatsby": "^4.12.1",
